@@ -1,1 +1,1 @@
-#MyTestFile
+*MyTestFile*
